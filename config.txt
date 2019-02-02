@@ -1,6 +1,6 @@
 token=NTQxMzgyOTY2MDg2MDc0MzY4.Dzep2w.iC6-HEoaP8NcrqapaLleA9u47AA
 owner=282219289828786177
 prefix=*
-game= !thelp
+game=On Thegamer's Server
 stayinchannel=false
 songinstatus=false
